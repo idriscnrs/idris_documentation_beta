@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6166],{93182:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"IA","slug":"/category/ia","permalink":"/idris_documentation_beta/docs/category/ia","sidebar":"iaSidebar","navigation":{"next":{"title":"Prise en main","permalink":"/idris_documentation_beta/docs/ia/prise_en_main"}}}}')}}]);

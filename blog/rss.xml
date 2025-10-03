@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>IDRIS Blog</title>
-        <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog</link>
+        <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog</link>
         <description>IDRIS Blog</description>
         <lastBuildDate>Thu, 27 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>fr</language>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2025-05]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-05</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-05</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2025-05</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2025-05</guid>
             <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Sommaire :]]></description>
             <content:encoded><![CDATA[<p>Sommaire :</p>
@@ -63,8 +63,8 @@ pour plus d'informations.</p>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2025-04]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-04</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-04</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2025-04</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2025-04</guid>
             <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Webinaire d'information "Se préparer au hackathon"]]></description>
             <content:encoded><![CDATA[<p>Webinaire d'information "Se préparer au hackathon"</p>
@@ -104,8 +104,8 @@ pour plus d'informations.</p>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2025-03]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-03</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-03</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2025-03</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2025-03</guid>
             <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Migration de l'espace DSDIR sur Lustre]]></description>
             <content:encoded><![CDATA[<p>Migration de l'espace DSDIR sur Lustre</p>
@@ -164,8 +164,8 @@ The IDRIS support team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2025-02]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-02</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-02</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2025-02</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2025-02</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Hackathon GPU HPC et IA à l'IDRIS en mai 2025]]></description>
             <content:encoded><![CDATA[<p>Hackathon GPU HPC et IA à l'IDRIS en mai 2025</p>
@@ -188,8 +188,8 @@ The IDRIS support team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hackathon GPU HPC et IA 2025 à l'IDRIS]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/hackthon-idris-nvidia-2025</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/hackthon-idris-nvidia-2025</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/hackthon-idris-nvidia-2025</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/hackthon-idris-nvidia-2025</guid>
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Pour la cinquième année consécutive, l'IDRIS organise, conjointement avec NVIDIA, un hackathon GPU HPC et IA.]]></description>
             <content:encoded><![CDATA[<p>Pour la cinquième année consécutive, l'IDRIS organise, conjointement avec NVIDIA, un hackathon GPU HPC et IA.</p>
@@ -205,8 +205,8 @@ The IDRIS support team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2025-01]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-01</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-01</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2025-01</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2025-01</guid>
             <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Sommaire :]]></description>
             <content:encoded><![CDATA[<p>Sommaire :</p>
@@ -257,17 +257,17 @@ rediffusions sont disponibles sur notre chaîne Youtube "Un oeil sur l'IDRIS" :
         </item>
         <item>
             <title><![CDATA[Décès de Janine Connes]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/deces-janine-connes</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/deces-janine-connes</guid>
             <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Janine Connes, fondatrice du Centre inter-régional de calcul électronique (CIRCÉ) du CNRS en 1969 et sa directrice jusqu’en 1982, est décédée le 28 novembre 2024 à l’âge de 98 ans. Elle formait]]></description>
             <content:encoded><![CDATA[<p>Janine Connes, fondatrice du Centre inter-régional de calcul électronique (CIRCÉ) du CNRS en 1969 et sa directrice jusqu’en 1982, est décédée le 28 novembre 2024 à l’âge de 98 ans. Elle formait
 avec son mari Pierre Connes un binôme scientifique de haut vol, Pierre étant l’expérimentateur et Janine traitant et analysant numériquement les résultats. Ce duo a mis en place la méthode de
-spectroscopie infrarouge par transformée de Fourier, d'une importance majeure dans cette discipline. La <a href="http://cwp.library.ucla.edu/Phase2/Connes,_Janine@841234567.html" target="_blank" rel="noopener noreferrer">page</a> du site de l’University of California Los Angeles qui est consacrée à madame Connes en atteste. Elle a également exercé un rôle crucial dans le développement de la simulation numérique en France, permettant au CNRS de se doter des moyens nécessaires au service de toutes les communautés scientifiques. Elle fait le récit détaillé de cette épopée dans son livre <a href="https://laboutique.edpsciences.fr/produit/1253/9782759825783/de-l-ibm-360-75-au-superordinateur-jean-zay" target="_blank" rel="noopener noreferrer">De l'IBM 360/75 au superordinateur Jean Zay</a>, écrit avec la participation de Françoise Perriquet et publié en 2022<sup><a href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes#user-content-fn-1-5d8a15" id="user-content-fnref-1-5d8a15" data-footnote-ref="true" aria-describedby="footnote-label" class="footnoteRefStickyNavbar_i6ta">1</a></sup>. Nous n’en rappellerons ici brièvement que les prémisses et les grandes étapes.</p>
+spectroscopie infrarouge par transformée de Fourier, d'une importance majeure dans cette discipline. La <a href="http://cwp.library.ucla.edu/Phase2/Connes,_Janine@841234567.html" target="_blank" rel="noopener noreferrer">page</a> du site de l’University of California Los Angeles qui est consacrée à madame Connes en atteste. Elle a également exercé un rôle crucial dans le développement de la simulation numérique en France, permettant au CNRS de se doter des moyens nécessaires au service de toutes les communautés scientifiques. Elle fait le récit détaillé de cette épopée dans son livre <a href="https://laboutique.edpsciences.fr/produit/1253/9782759825783/de-l-ibm-360-75-au-superordinateur-jean-zay" target="_blank" rel="noopener noreferrer">De l'IBM 360/75 au superordinateur Jean Zay</a>, écrit avec la participation de Françoise Perriquet et publié en 2022<sup><a href="https://your-docusaurus-site.example.com/idris_documentation_beta/blog/deces-janine-connes#user-content-fn-1-5d8a15" id="user-content-fnref-1-5d8a15" data-footnote-ref="true" aria-describedby="footnote-label" class="footnoteRefStickyNavbar_i6ta">1</a></sup>. Nous n’en rappellerons ici brièvement que les prémisses et les grandes étapes.</p>
 <p>Janine Connes avait fait sa thèse sous la direction de Pierre Jacquinot en 1954. Elle avait travaillé à déterminer la composition de l’atmosphère de Vénus et avait attiré l’attention de Franck Gray, alors
 directeur de la NASA qui recrutait l’équipe de recherche préalable à la première mission Viking, mission d’exploration de Mars. Madame Connes acquit donc une grande expérience en calculs lors de
 séjours prolongés aux États-Unis à partir de 1963, notamment au Jet Propulsion Laboratory (JPL) de la NASA. C’est là qu’elle réalisa, encore et toujours main dans la main avec Pierre Connes, des
-avancées importantes dans la spectroscopie infrarouge à transformée de Fourier<sup><a href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes#user-content-fn-2-5d8a15" id="user-content-fnref-2-5d8a15" data-footnote-ref="true" aria-describedby="footnote-label" class="footnoteRefStickyNavbar_i6ta">2</a></sup>. Elle put également découvrir le fonctionnement du centre de calcul de l’université de Stanford et l'activité d’autres centres
+avancées importantes dans la spectroscopie infrarouge à transformée de Fourier<sup><a href="https://your-docusaurus-site.example.com/idris_documentation_beta/blog/deces-janine-connes#user-content-fn-2-5d8a15" id="user-content-fnref-2-5d8a15" data-footnote-ref="true" aria-describedby="footnote-label" class="footnoteRefStickyNavbar_i6ta">2</a></sup>. Elle put également découvrir le fonctionnement du centre de calcul de l’université de Stanford et l'activité d’autres centres
 américains majeurs, notamment ceux d’Argonne et du Lawrence Livermore National Laboratory. C’est riche de toutes ses expériences qu’elle était devenue spécialiste de simulation numérique, à une
 époque où cette spécialité n’en était encore qu’à ses balbutiements.</p>
 <p>Pierre Jacquinot, lui-même physicien et précédent directeur du laboratoire Aimé Cotton alors installé à Meudon-Bellevue, était alors confronté à la difficulté de disposer de la puissance de calcul
@@ -290,13 +290,13 @@ monde de la recherche.</p>
 <p>À l’heure de sa disparition, il convient de célébrer le rôle pionnier, majeur et moteur qu’a tenu
 Janine Connes dans le développement du calcul scientifique en France.</p>
 <!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes#footnote-label" class="hash-link" aria-label="Lien direct vers Footnotes" title="Lien direct vers Footnotes" translate="no">​</a></h2>
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://your-docusaurus-site.example.com/idris_documentation_beta/blog/deces-janine-connes#footnote-label" class="hash-link" aria-label="Lien direct vers Footnotes" title="Lien direct vers Footnotes" translate="no">​</a></h2>
 <ol>
 <li id="user-content-fn-1-5d8a15">
-<p>Janine Connes (avec la participation de Françoise Perriquet), <a href="https://laboutique.edpsciences.fr/produit/1253/9782759825783/de-l-ibm-360-75-au-superordinateur-jean-zay" target="_blank" rel="noopener noreferrer">De l'IBM 360/75 au superordinateur Jean Zay</a>, EDP Sciences, 2022. <a href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes#user-content-fnref-1-5d8a15" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<p>Janine Connes (avec la participation de Françoise Perriquet), <a href="https://laboutique.edpsciences.fr/produit/1253/9782759825783/de-l-ibm-360-75-au-superordinateur-jean-zay" target="_blank" rel="noopener noreferrer">De l'IBM 360/75 au superordinateur Jean Zay</a>, EDP Sciences, 2022. <a href="https://your-docusaurus-site.example.com/idris_documentation_beta/blog/deces-janine-connes#user-content-fnref-1-5d8a15" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-2-5d8a15">
-<p><a href="http://cwp.library.ucla.edu/Phase2/Connes,_Janine@841234567.html" target="_blank" rel="noopener noreferrer">Mary R. Masson</a> : Fourier Transform Infrared Spectroscopy was "a very significant contribution to the theoretical and experimental development of Fourier Transform Infrared spectroscopy. Instrument developed were used for observation of the night sky. The advantage of such instruments in having an accurate laser-referenced frequency scale is referred to as the `Connes advantage.'" <a href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes#user-content-fnref-2-5d8a15" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+<p><a href="http://cwp.library.ucla.edu/Phase2/Connes,_Janine@841234567.html" target="_blank" rel="noopener noreferrer">Mary R. Masson</a> : Fourier Transform Infrared Spectroscopy was "a very significant contribution to the theoretical and experimental development of Fourier Transform Infrared spectroscopy. Instrument developed were used for observation of the night sky. The advantage of such instruments in having an accurate laser-referenced frequency scale is referred to as the `Connes advantage.'" <a href="https://your-docusaurus-site.example.com/idris_documentation_beta/blog/deces-janine-connes#user-content-fnref-2-5d8a15" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content:encoded>
@@ -304,8 +304,8 @@ Janine Connes dans le développement du calcul scientifique en France.</p>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-29]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-29</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-29</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-29</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-29</guid>
             <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Adaptation aux nouveaux termes de la licence Anaconda]]></description>
             <content:encoded><![CDATA[<p>Adaptation aux nouveaux termes de la licence Anaconda</p>
@@ -356,8 +356,8 @@ The IDRIS Support Team</p>
         </item>
         <item>
             <title><![CDATA[Restrictions de licence pour l'utilisation d'Alphafold3 sur Jean Zay]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/licence-alphafold3</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/licence-alphafold3</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/licence-alphafold3</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/licence-alphafold3</guid>
             <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Deepmind a ouvert le code d'Alphafold 3 et l'a rendu disponible sur Github. Cependant les poids du modèle sont eux soumis à une licence qui fait qu'il ne sera pas possible de les rendre disponibles à tous les utilisateurs de l'IDRIS.]]></description>
             <content:encoded><![CDATA[<p>Deepmind a ouvert le code d'Alphafold 3 et l'a rendu disponible sur Github. Cependant les poids du modèle sont eux soumis à une licence qui fait qu'il ne sera pas possible de les rendre disponibles à tous les utilisateurs de l'IDRIS.</p>
@@ -375,8 +375,8 @@ The IDRIS Support Team</p>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-28]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-28</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-28</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-28</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-28</guid>
             <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Sommaire :]]></description>
             <content:encoded><![CDATA[<p>Sommaire :</p>
@@ -431,8 +431,8 @@ L'arrêt définitif de cet espace aura lieu à la fin du mois de novembre 2024.<
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-27]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-27</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-27</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-27</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-27</guid>
             <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Changements importants : QoS, JupyterHub, H100]]></description>
             <content:encoded><![CDATA[<p>Changements importants : QoS, JupyterHub, H100</p>
@@ -524,8 +524,8 @@ The IDRIS support team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-26]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-26</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-26</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-26</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-26</guid>
             <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Arrêt électrique : mardi 8 et mercredi 9 octobre 2024]]></description>
             <content:encoded><![CDATA[<p>Arrêt électrique : mardi 8 et mercredi 9 octobre 2024</p>
@@ -556,8 +556,8 @@ The IDRIS User Support Team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-25]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-25</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-25</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-25</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-25</guid>
             <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Sommaire :]]></description>
             <content:encoded><![CDATA[<p>Sommaire :</p>
@@ -595,8 +595,8 @@ sur l'IDRIS" : <a href="https://www.youtube.com/@idriscnrs" target="_blank" rel=
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-24]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-24</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-24</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-24</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-24</guid>
             <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Opération sur le gestionnaire de travaux Slurm le 1er octobre]]></description>
             <content:encoded><![CDATA[<p>Opération sur le gestionnaire de travaux Slurm le 1er octobre</p>
@@ -632,8 +632,8 @@ The IDRIS User Support Team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-23]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-23</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-23</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-23</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-23</guid>
             <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Sommaire :]]></description>
             <content:encoded><![CDATA[<p>Sommaire :</p>
@@ -674,8 +674,8 @@ The IDRIS User Support Team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-22]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-22</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-22</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-22</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-22</guid>
             <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Arrêt du SCRATCH actuel le 3 septembre 2024]]></description>
             <content:encoded><![CDATA[<p>Arrêt du SCRATCH actuel le 3 septembre 2024</p>
@@ -720,8 +720,8 @@ The IDRIS support team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-21]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-21</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-21</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-21</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-21</guid>
             <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Migration du WORK et du HOME]]></description>
             <content:encoded><![CDATA[<p>Migration du WORK et du HOME</p>
@@ -820,8 +820,8 @@ The IDRIS support team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-20]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-20</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-20</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-20</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-20</guid>
             <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Modalités de migration du SCRATCH]]></description>
             <content:encoded><![CDATA[<p>Modalités de migration du SCRATCH</p>
@@ -868,8 +868,8 @@ The IDRIS support team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-19]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-19</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-19</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-19</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-19</guid>
             <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Prolongation de l'indisponibilité du STORE]]></description>
             <content:encoded><![CDATA[<p>Prolongation de l'indisponibilité du STORE</p>
@@ -903,8 +903,8 @@ The IDRIS support team</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flash Info de l'IDRIS n°2024-18]]></title>
-            <link>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-18</link>
-            <guid>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-18</guid>
+            <link>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-18</link>
+            <guid>https://your-docusaurus-site.example.com/idris_documentation_beta/blog/flash-info-2024-18</guid>
             <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Migration du STORE les 22 et 23 juillet]]></description>
             <content:encoded><![CDATA[<p>Migration du STORE les 22 et 23 juillet</p>

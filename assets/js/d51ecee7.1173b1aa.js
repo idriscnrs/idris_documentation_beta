@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2584],{550:a=>{a.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Dalia","slug":"/category/dalia","permalink":"/idris_documentation_beta/docs/category/dalia","sidebar":"daliaSidebar","navigation":{"next":{"title":"Dalia","permalink":"/idris_documentation_beta/docs/dalia/dalia-hardware"}}}}')}}]);

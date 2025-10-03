@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5753],{63262:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/idris_documentation_beta/blog","page":1,"postsPerPage":10,"totalPages":4,"totalCount":39,"nextPage":"/idris_documentation_beta/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
