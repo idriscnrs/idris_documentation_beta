@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2793],{94188:e=>{e.exports=JSON.parse('{"authors":[{"name":"IDRIS","title":"Computing center","imageURL":"https://upload.wikimedia.org/wikipedia/fr/7/72/Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg","key":"idris","page":null,"count":39}]}')}}]);

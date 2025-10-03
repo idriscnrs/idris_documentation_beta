@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog</id>
+    <title>IDRIS Blog</title>
+    <updated>2025-02-27T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog"/>
+    <subtitle>IDRIS Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2025-05]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-05</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-05"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sommaire :]]></summary>
+        <content type="html"><![CDATA[<p>Sommaire :</p>
+<ul>
+<li>Hackathon GPU HPC et IA : plus que quelques jours pour candidater</li>
+<li>Panoram'IA : rendez-vous vendredi 28/02 à 10h</li>
+<li>CEEMS : un outil de mesure énergétique sur Jean Zay</li>
+<li>Formations IDRIS</li>
+</ul>
+<hr>
+<ul>
+<li>Hackathon GPU HPC et IA : plus que quelques jours pour candidater</li>
+</ul>
+<p>Nous vous rappelons que la date limite d'inscription pour notre hackathon GPU HPC et IA est fixée
+au 4 mars. Pour rappel, cet événement, organisé conjointement avec NVIDIA, aura lieu le 13 mai
+(à distance) et les 20, 21 et 22 mai (dans les locaux de l'IDRIS).</p>
+<p>L'inscription se fait via la page de l'évènement (en anglais) :
+<a href="https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364" target="_blank" rel="noopener noreferrer">https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364</a>.</p>
+<ul>
+<li>Panoram'IA : rendez-vous vendredi 28/02 à 10h</li>
+</ul>
+<p>L'assistance de l'IDRIS vous propose le vendredi matin 28/02 à 10h, un direct de son émission
+"Panoram'IA". Cette émission se fera en compagnie de notre invité Jérôme Louradour qui nous
+fera un retour d'expérience sur le pretraining de Lucie sur notre supercalculateur Jean Zay.
+Le direct ainsi que les rediffusions sont disponibles sur notre chaîne Youtube "Un oeil sur l'IDRIS" :
+<a href="https://www.youtube.com/@idriscnrs" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@idriscnrs</a>.</p>
+<ul>
+<li>CEEMS : un outil de mesure énergétique sur Jean Zay</li>
+</ul>
+<p>Comme annoncé lors du dernier comité des utilisateurs, l'outil CEEMS de mesure de l'énergie est
+désormais disponible sur Jean Zay : voir la page <a href="http://www.idris.fr/jean-zay/jean-zay-doc-energie.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/jean-zay/jean-zay-doc-energie.html</a>
+pour plus d'informations.</p>
+<ul>
+<li>Formations IDRIS</li>
+</ul>
+<p>Pensez à vous inscrire dès maintenant aux formations IDRIS planifiées sur les prochains mois :</p>
+<ul>
+<li>MPI, du 18 au 21 mars</li>
+<li>OpenMP, du 26 au 28 mars</li>
+<li>C++ Scientifique Moderne, du 9 au 11 avril</li>
+<li>Introduction à OpenACC et OpenMP GPU, du 16 au 18 avril</li>
+<li>Programmation hybride MPI/OpenMP, du 5 au 6 juin</li>
+<li>Workshop Jean Zay, du 12 au 13 juin</li>
+<li>OpenMP/MPI, du 16 au 20 juin</li>
+</ul>
+<p>Pour plus d'informations sur le catalogue des formations de l'IDRIS et les modalités d'inscription :
+<a href="http://www.idris.fr/formations/catalogue.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/formations/catalogue.html</a>.</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2025-04]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-04</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-04"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Webinaire d'information "Se préparer au hackathon"]]></summary>
+        <content type="html"><![CDATA[<p>Webinaire d'information "Se préparer au hackathon"</p>
+<p>[English version below]</p>
+<p>L'IDRIS organise son 5ème Hackathon (<a href="https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364" target="_blank" rel="noopener noreferrer">https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364</a>) du 13 au 22 mai 2025 et nous sommes à la recherche d'équipes intéressées pour participer (date limite d'inscription : 4 mars).</p>
+<p>Qu'est-ce qu'un hackathon ? Il s'agit d'un évènement dédié aux développeurs de codes scientifiques qui vise à aider les chercheurs et ingénieurs à optimiser, accélérer et faire passer à l'échelle leurs applications HPC ou IA sur Jean Zay. Pour cela, vous serez accompagnés de mentors experts en programmation dont les conseils permettront de booster vos projets HPC ou IA.</p>
+<p>Cette année NVIDIA vous invite à un webinaire d'information "Se préparer au hackathon" centré sur les applications IA, avec la participation de l'IDRIS :</p>
+<p>Rejoignez-nous le 18 février à 11h pour découvrir comment profiter au mieux de cette opportunité.</p>
+<p>En participant au séminaire, vous pourrez :</p>
+<ul>
+<li>obtenir une vue d'ensemble du prochain hackathon de l'IDRIS (<a href="https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364" target="_blank" rel="noopener noreferrer">https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364</a>) et de la manière dont il peut bénéficier à votre recherche en IA ;</li>
+<li>découvrir des cas d'utilisation IA ayant bénéficié des hackathons précédents ;</li>
+<li>comprendre comment profiter de Jean Zay pour vos projets d'IA ;</li>
+<li>rencontrer des spécialistes en IA de NVIDIA pour échanger en privé sur votre projet.</li>
+</ul>
+<p>Le nombre de places est limité, inscrivez-vous maintenant : <a href="https://bit.ly/IdrisGHR" target="_blank" rel="noopener noreferrer">https://bit.ly/IdrisGHR</a>.</p>
+<p>Pour un aperçu des projets qui ont bénéficié du hackathon de l'année passée, vous pouvez lire le récapitulatif du Hackathon IDRIS 2024 : <a href="https://www.openhackathons.org/s/article/IDRIS-Contributing-to-the-Excellence-of-Scientific-Research" target="_blank" rel="noopener noreferrer">https://www.openhackathons.org/s/article/IDRIS-Contributing-to-the-Excellence-of-Scientific-Research</a>.</p>
+<p>Nous espérons que vous participerez pour en savoir plus et recevoir un support personnalisé.</p>
+<p>Si vous avez des questions, n'hésitez pas à contacter <a href="mailto:events@openhackathons.org" target="_blank" rel="noopener noreferrer">events@openhackathons.org</a> (en anglais).</p>
+<hr>
+<p>IDRIS is hosting its fifth IDRIS Open Hackathon (<a href="https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364" target="_blank" rel="noopener noreferrer">https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364</a>) from May 13 to May 22, 2025 and we are actively seeking applications (deadline: March 4th).</p>
+<p>If you are not familiar, this hands-on coding event helps researchers and engineers to optimize, accelerate, and scale their HPC and AI applications on Jean Zay by pairing them with expert programming mentors whose guidance can take your HPC and AI projects to the next level.</p>
+<p>This year NVIDIA invites you to an informational webinar “Getting Hackathon Ready” focused on AI applications, with the participation of IDRIS:</p>
+<p>Join us on February 18th, 11AM CET to learn more about how to participate in this unique opportunity.</p>
+<p>By attending the webinar, you will:</p>
+<ul>
+<li>Get an overview of the upcoming IDRIS Open Hackathon (<a href="https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364" target="_blank" rel="noopener noreferrer">https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364</a>) and how it can benefit your AI research;</li>
+<li>Examine AI use cases advanced at previous hackathons;</li>
+<li>Understand how Jean Zay can support your AI projects; and</li>
+<li>Get the chance to meet AI specialists from NVIDIA for a private consultation on your project.</li>
+</ul>
+<p>Space is limited, sign up now: <a href="https://bit.ly/IdrisGHR" target="_blank" rel="noopener noreferrer">https://bit.ly/IdrisGHR</a>.</p>
+<p>For a glimpse of the projects that benefited from attending last year’s event, read the 2024 IDRIS Open Hackathon recap: <a href="https://www.openhackathons.org/s/article/IDRIS-Contributing-to-the-Excellence-of-Scientific-Research" target="_blank" rel="noopener noreferrer">https://www.openhackathons.org/s/article/IDRIS-Contributing-to-the-Excellence-of-Scientific-Research</a>.</p>
+<p>We hope you will join us to learn more and receive personalized expert support.</p>
+<p>Should you have any questions, please contact <a href="mailto:events@openhackathons.org" target="_blank" rel="noopener noreferrer">events@openhackathons.org</a>.</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2025-03]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-03</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-03"/>
+        <updated>2025-01-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Migration de l'espace DSDIR sur Lustre]]></summary>
+        <content type="html"><![CDATA[<p>Migration de l'espace DSDIR sur Lustre</p>
+<p>[English version below]</p>
+<p>Bonjour,</p>
+<p>Lors de la maintenance du 21 janvier 2025, la variable d'environnement DSDIR a été modifiée et
+redirige maintenant vers un nouvel espace de stockage Lustre : "/lustre/fsmisc/dataset".</p>
+<p>L'ensemble des bases de données et modèles téléchargés dans le DSDIR depuis les débuts de Jean Zay
+y a été migré. Ce nouvel espace est accessible depuis l'ensemble des noeuds de Jean Zay, y compris
+les noeuds de la nouvelle extension H100.</p>
+<p>C'est ce nouvel espace qui sera dorénavant utilisé pour les téléchargements de datasets ou modèles
+publics. Les anciens espaces disques "/gpfsdsdir/dataset" et "/gpfsdswork/dataset" sont désormais
+dépréciés et ne seront plus accessibles à partir de la fin du mois de janvier.</p>
+<p>Si vous utilisez déjà la variable d'environnement DSDIR dans vos scripts, la migration des données
+n'aura pas d'impact sur vos exécutions. Mais si vous utilisez des chemins explicites, il faudra penser
+à les modifier. Nous vous invitons à cette occasion à basculer sur un usage systématique de la
+variable DSDIR, comme dans le script suivant par exemple :</p>
+<p>'''
+import os
+from datasets import load_dataset
+dataset = load_dataset(os.environ['DSDIR']+"/HuggingFace/wikimedia/structured-wikipedia")
+'''</p>
+<p>Pour rappel, le DSDIR est un espace disque dédié au stockage de bases de données ou modèles publics
+nécessaires à l'utilisation d'outils de l'Intelligence Artificielle. Il est visible par l'ensemble des
+utilisateurs de Jean Zay. Pour plus d'information :
+<a href="http://www.idris.fr/jean-zay/cpu/jean-zay-cpu-calculateurs-disques.html#le_dsdir" target="_blank" rel="noopener noreferrer">http://www.idris.fr/jean-zay/cpu/jean-zay-cpu-calculateurs-disques.html#le_dsdir</a></p>
+<p>N'hésitez pas à contacter l'assistance à <a href="mailto:assist@idris.fr" target="_blank" rel="noopener noreferrer">assist@idris.fr</a> si vous rencontrez des problèmes.</p>
+<p>Bien cordialement,
+L'équipe assistance IDRIS</p>
+<hr>
+<p>Hello,</p>
+<p>During the maintenance on January 21, 2025, the DSDIR environment variable was modified and now points
+to a new Lustre storage space: "/lustre/fsmisc/dataset".</p>
+<p>All databases and models downloaded to DSDIR since the beginning of Jean Zay have been migrated to this
+new space. This new space is accessible from all Jean Zay nodes, including the nodes of the new H100
+extension.</p>
+<p>This new space will now be used for downloading public datasets or models. The old disk spaces
+"/gpfsdsdir/dataset" and "/gpfsdswork/dataset" are now deprecated and will no longer be accessible as
+of the end of January.</p>
+<p>If you are already using the DSDIR environment variable in your scripts, the data migration will have
+no impact on your runs. However, if you are using hardcoded paths, you will need to update them. We
+invite you to take this opportunity to switch to systematic use of the DSDIR variable, as in the
+following script for example:</p>
+<p>'''
+import os
+from datasets import load_dataset
+dataset = load_dataset(os.environ['DSDIR']+"/HuggingFace/wikimedia/structured-wikipedia")
+'''</p>
+<p>As a reminder, DSDIR is a dedicated disk space for storing public databases or models needed for the
+use of Artificial Intelligence tools. It is visible to all Jean Zay users. For more information:
+<a href="http://www.idris.fr/eng/jean-zay/cpu/jean-zay-cpu-calculateurs-disques-eng.html#the_dsdir" target="_blank" rel="noopener noreferrer">http://www.idris.fr/eng/jean-zay/cpu/jean-zay-cpu-calculateurs-disques-eng.html#the_dsdir</a></p>
+<p>Please do not hesitate to contact the support team at <a href="mailto:assist@idris.fr" target="_blank" rel="noopener noreferrer">assist@idris.fr</a> if you encounter any issue.</p>
+<p>Best regards,
+The IDRIS support team</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2025-02]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-02</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-02"/>
+        <updated>2025-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hackathon GPU HPC et IA à l'IDRIS en mai 2025]]></summary>
+        <content type="html"><![CDATA[<p>Hackathon GPU HPC et IA à l'IDRIS en mai 2025</p>
+<p>Pour la cinquième année consécutive, l'IDRIS organise, conjointement avec NVIDIA, un hackathon GPU HPC et IA.</p>
+<p>Il aura lieu le 13 mai (à distance) et les 20, 21 et 22 mai 2025 (dans les locaux de l'IDRIS). La date limite d'inscription est fixée au 4 mars.</p>
+<p>Les hackathons GPU permettent à des équipes de trois ou quatre développeurs ou chercheurs d'améliorer les performances de leurs codes HPC ou IA sous la houlette d'un ou plusieurs mentors, experts en programmation GPU et issus des universités, de laboratoires nationaux, de centres de calcul, d'institutions gouvernementales et de constructeurs.</p>
+<p>Il n'est pas nécessaire d'être utilisateur de l'IDRIS pour participer à cet événement donc n'hésitez pas à diffuser ce message auprès de vos collègues. Vous aurez à cette occasion accès aux ressources de calcul de l'IDRIS, afin de pouvoir tester votre code sur des GPU récents allant jusqu'aux NVIDIA H100.</p>
+<p>Pour les projets HPC, il peut aussi bien s'agir de commencer le portage d'un code sur GPU en utilisant OpenACC, OpenMP, Kokkos, des bibliothèques GPU, CUDA, etc que d'optimiser une implémentation GPU existante. Dans le cas d'un code de taille importante, il est recommandé de préparer une mini-application représentative pour pouvoir être plus efficace pendant l'événement.</p>
+<p>Pour les projets d'IA, ce hackathon offre une occasion unique d’explorer le finetuning, le développement ou l’évaluation de modèles de pointe tels que les LLM et les applications GenAI. Vous pourrez optimiser vos modèles grâce à des techniques avancées comme la précision mixte, la parallélisation multi-GPU ou multi-nœuds (DDP, PP, TP, CP), en utilisant des frameworks de base comme PyTorch ou TensorFlow, ou des outils spécialisés tels que DeepSpeed, Megatron-LM, Nanotron ou encore NVIDIA NeMo. Bien qu'un préentraînement complet soit hors de portée dans la durée du hackathon, préparer un code de préentraînement pour des modèles de grande échelle reste possible.</p>
+<p>L'inscription se fait via la page de l'évènement (en anglais) : <a href="https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364" target="_blank" rel="noopener noreferrer">https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364</a>.</p>
+<hr>
+<p>IDRIS is organizing a HPC and AI GPU Hackathon together with NVIDIA.</p>
+<p>The Hackathon will be held on May 13th 2025 (remotely) and from May 20th through May 22nd (on site at IDRIS). The application deadline is March 4th 2025.</p>
+<p>GPU Hackathons provide opportunities for teams of three or four developers and researchers to accelerate their HPC or AI codes under the guidance of expert mentors from universities, national labs, computing centers, governmental institutions and hardware manufacturers in a collaborative environment.</p>
+<p>The event is open to everyone even if you are not already a user of IDRIS computing resources so feel free to forward this message to your colleagues. During the Hackathon, you will be provided with access to the computing resources of IDRIS, in order to be able to benchmark your code on recent GPUs, including NVIDIA H100s.</p>
+<p>For HPC projects, it could be the opportunity to start porting a code to GPU using OpenACC, OpenMP, Kokkos, GPU libraries, CUDA, etc or to optimize an existing GPU implementation. If your codebase is large in size, we recommend selecting and extracting a representative mini-app from the original application in order to be more efficient during the Hackathon.</p>
+<p>For AI projects, it will be the occasion to explore finetuning, developing or evaluating cutting-edge models such as LLMs or GenAI applications. You will be able to improve your models thanks to advanced techniques like mixed precision, multi-GPU or multi-node parallelization (DDP, PP, TP, CP), by using standard frameworks such as PyTorch or TensorFlow, or specialized tools like DeepSpeed, Megatron-LM, Nanotron or NVIDIA NeMo. Even though a full pretraining cannot be achieved in the time frame of the Hackathon, you can get a pretraining code ready for large scale models.</p>
+<p>Please register on <a href="https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364" target="_blank" rel="noopener noreferrer">https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364</a>.</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackathon GPU HPC et IA 2025 à l'IDRIS]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/hackthon-idris-nvidia-2025</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/hackthon-idris-nvidia-2025"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pour la cinquième année consécutive, l'IDRIS organise, conjointement avec NVIDIA, un hackathon GPU HPC et IA.]]></summary>
+        <content type="html"><![CDATA[<p>Pour la cinquième année consécutive, l'IDRIS organise, conjointement avec NVIDIA, un hackathon GPU HPC et IA.</p>
+<p>Il aura lieu le <strong>13 mai</strong> (à distance) et les <strong>20, 21 et 22 mai 2025</strong> (dans les locaux de l'IDRIS).</p>
+<p>Les hackathons GPU permettent à des équipes de trois ou quatre développeurs ou chercheurs d'améliorer les performances de leurs codes HPC ou IA sous la houlette d'un ou plusieurs mentors, experts en programmation GPU et issus des universités, de laboratoires nationaux, de centres de calcul, d'institutions gouvernementales et de constructeurs.</p>
+<p>Vous aurez à cette occasion accès aux ressources de calcul de l'IDRIS, afin de pouvoir tester votre code sur des GPU récents allant jusqu'aux NVIDIA H100.</p>
+<p>Pour les projets HPC, il peut aussi bien s'agir de commencer le portage d'un code sur GPU en utilisant OpenACC, OpenMP, Kokkos, des bibliothèques GPU, CUDA, etc que d'optimiser une implémentation GPU existante. Dans le cas d'un code de taille importante, il est recommandé de préparer une mini-application représentative pour pouvoir être plus efficace pendant l'événement.</p>
+<p>Pour les projets d'IA, ce hackathon offre une occasion unique d’explorer le finetuning, le développement ou l’évaluation de modèles de pointe tels que les LLM et les applications GenAI. Vous pourrez optimiser vos modèles grâce à des techniques avancées comme la précision mixte, la parallélisation multi-GPU ou multi-nœuds (DDP, PP, TP, CP), en utilisant des frameworks de base comme PyTorch ou TensorFlow, ou des outils spécialisés tels que DeepSpeed, Megatron-LM, Nanotron ou encore NVIDIA NeMo. Bien qu'un préentraînement complet soit hors de portée dans la durée du hackathon, préparer un code de préentraînement pour des modèles de grande échelle reste possible.</p>
+<p><strong>Merci de vous inscrire</strong> sur <a href="https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364" target="_blank" rel="noopener noreferrer">https://www.openhackathons.org/s/siteevent/a0CUP00000sO9LV2A0/se000364</a>.</p>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>attention</div><div class="admonitionContent_BuS1"><p>La date limite d'​inscription est le 4 mars 2025.</p></div></div>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="actu" term="actu"/>
+        <category label="hackathon" term="hackathon"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2025-01]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-01</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2025-01"/>
+        <updated>2025-01-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sommaire :]]></summary>
+        <content type="html"><![CDATA[<p>Sommaire :</p>
+<ul>
+<li>Meilleurs voeux !</li>
+<li>Prochaine réunion du CU de l'IDRIS : mercredi 22 janvier 2025</li>
+<li>Panoram'IA : rendez-vous vendredi 24/01 à 10h</li>
+<li>Formations IDRIS</li>
+</ul>
+<hr>
+<ul>
+<li>Meilleurs voeux !</li>
+</ul>
+<p>L'IDRIS souhaite une excellente année 2025 à toutes ses utilisatrices et tous ses utilisateurs !</p>
+<ul>
+<li>Prochaine réunion du CU de l'IDRIS : mercredi 22 janvier 2025</li>
+</ul>
+<p>La prochaine réunion du Comité des utilisateurs (CU) de l'IDRIS aura lieu le mercredi 22 janvier 2025
+dans les locaux de l'IDRIS. N'hésitez pas à transmettre vos demandes à l'adresse : cu-elus at idris.fr.
+Plus d'information : <a href="http://www.idris.fr/cu.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/cu.html</a></p>
+<ul>
+<li>Panoram'IA : rendez-vous vendredi 24/01 à 10h</li>
+</ul>
+<p>L'assistance de l'IDRIS vous propose le vendredi matin 24/01 à 10h, "Panoram'IA" : le magazine vidéo
+mensuel et en direct qui aborde l'actualité scientifique et technique de l'IA. Le direct ainsi que les
+rediffusions sont disponibles sur notre chaîne Youtube "Un oeil sur l'IDRIS" :
+<a href="https://www.youtube.com/@idriscnrs" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@idriscnrs</a>.</p>
+<ul>
+<li>Formations IDRIS</li>
+</ul>
+<p>Pensez à vous inscrire dès maintenant aux formations IDRIS planifiées sur les prochains mois.</p>
+<p>À venir très prochainement :</p>
+<ul>
+<li>Introduction Pratique au Deep Learning (IPDL), les 3 et 4 février</li>
+<li>Architectures du Deep Learning (ArchDL), les 5 et 6 février</li>
+</ul>
+<p>Autres formations programmées :</p>
+<ul>
+<li>MPI, du 18 au 21 mars</li>
+<li>OpenMP, du 26 au 28 mars</li>
+<li>C++ Scientifique Moderne, du 9 au 11 avril</li>
+<li>Introduction à OpenACC et OpenMP GPU, du 16 au 18 avril</li>
+</ul>
+<p>Pour plus d'informations sur le catalogue des formations de l'IDRIS et les modalités d'inscription :
+<a href="http://www.idris.fr/formations/catalogue.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/formations/catalogue.html</a>.</p>
+<hr>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Décès de Janine Connes]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes"/>
+        <updated>2024-11-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Janine Connes, fondatrice du Centre inter-régional de calcul électronique (CIRCÉ) du CNRS en 1969 et sa directrice jusqu’en 1982, est décédée le 28 novembre 2024 à l’âge de 98 ans. Elle formait]]></summary>
+        <content type="html"><![CDATA[<p>Janine Connes, fondatrice du Centre inter-régional de calcul électronique (CIRCÉ) du CNRS en 1969 et sa directrice jusqu’en 1982, est décédée le 28 novembre 2024 à l’âge de 98 ans. Elle formait
+avec son mari Pierre Connes un binôme scientifique de haut vol, Pierre étant l’expérimentateur et Janine traitant et analysant numériquement les résultats. Ce duo a mis en place la méthode de
+spectroscopie infrarouge par transformée de Fourier, d'une importance majeure dans cette discipline. La <a href="http://cwp.library.ucla.edu/Phase2/Connes,_Janine@841234567.html" target="_blank" rel="noopener noreferrer">page</a> du site de l’University of California Los Angeles qui est consacrée à madame Connes en atteste. Elle a également exercé un rôle crucial dans le développement de la simulation numérique en France, permettant au CNRS de se doter des moyens nécessaires au service de toutes les communautés scientifiques. Elle fait le récit détaillé de cette épopée dans son livre <a href="https://laboutique.edpsciences.fr/produit/1253/9782759825783/de-l-ibm-360-75-au-superordinateur-jean-zay" target="_blank" rel="noopener noreferrer">De l'IBM 360/75 au superordinateur Jean Zay</a>, écrit avec la participation de Françoise Perriquet et publié en 2022<sup><a href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes#user-content-fn-1-5d8a15" id="user-content-fnref-1-5d8a15" data-footnote-ref="true" aria-describedby="footnote-label" class="footnoteRefStickyNavbar_i6ta">1</a></sup>. Nous n’en rappellerons ici brièvement que les prémisses et les grandes étapes.</p>
+<p>Janine Connes avait fait sa thèse sous la direction de Pierre Jacquinot en 1954. Elle avait travaillé à déterminer la composition de l’atmosphère de Vénus et avait attiré l’attention de Franck Gray, alors
+directeur de la NASA qui recrutait l’équipe de recherche préalable à la première mission Viking, mission d’exploration de Mars. Madame Connes acquit donc une grande expérience en calculs lors de
+séjours prolongés aux États-Unis à partir de 1963, notamment au Jet Propulsion Laboratory (JPL) de la NASA. C’est là qu’elle réalisa, encore et toujours main dans la main avec Pierre Connes, des
+avancées importantes dans la spectroscopie infrarouge à transformée de Fourier<sup><a href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes#user-content-fn-2-5d8a15" id="user-content-fnref-2-5d8a15" data-footnote-ref="true" aria-describedby="footnote-label" class="footnoteRefStickyNavbar_i6ta">2</a></sup>. Elle put également découvrir le fonctionnement du centre de calcul de l’université de Stanford et l'activité d’autres centres
+américains majeurs, notamment ceux d’Argonne et du Lawrence Livermore National Laboratory. C’est riche de toutes ses expériences qu’elle était devenue spécialiste de simulation numérique, à une
+époque où cette spécialité n’en était encore qu’à ses balbutiements.</p>
+<p>Pierre Jacquinot, lui-même physicien et précédent directeur du laboratoire Aimé Cotton alors installé à Meudon-Bellevue, était alors confronté à la difficulté de disposer de la puissance de calcul
+nécessaire à ses propres recherches. Devenu directeur général du CNRS entre 1962 et 1969, il imposa l’idée de créer un centre de calcul dédié à tous les chercheurs ayant besoin de très grande puissance de
+calcul. Il voulait un centre généraliste et détaché de la recherche en informatique : « Donner aux utilisateurs de toute discipline la possibilité de faire pour leur recherche les calculs dont ils ont besoin
+et qu’ils ne peuvent pas faire ailleurs. »</p>
+<p>En 1968, c’est donc vers Janine Connes qu’il se tourna pour concevoir, mettre en place et diriger cette nouvelle structure d’une nature alors unique en Europe. Forte de son expérience outre-Atlantique,
+elle put alors proposer à Pierre Jacquinot de bâtir la nouvelle structure en question, en s’inspirant très largement des modèles américains performants.</p>
+<p>Non sans avoir engendré de vives turbulences, cela aboutit en 1969, sur le plateau du Moulon à Orsay, à la création du Centre inter-régional de calcul électronique (CIRCÉ), centre national de
+calcul du CNRS. Une partie des personnels venait de l’Institut Blaise Pascal et l’autre partie a été recrutée spécialement. Sa mission d’unité de services, à la disposition de toutes les disciplines
+scientifiques, mais détachée elle-même de la recherche en informatique, faisait du centre un lieu unique et essentiel pour toute la recherche scientifique française.</p>
+<p>Madame Connes assura le développement et la direction du CIRCÉ pendant 13 ans, jusqu’en 1982, date à laquelle elle le quitta pour prendre la tête de la toute nouvelle Direction de l’informatique
+scientifique du CNRS, créée par le directeur général d’alors, Pierre Papon.</p>
+<p>Plus tard, en 1992, le directeur général en poste, François Kourilsky, lança le projet MIPS (Moyens informatiques performants pour la science), dans le but de préparer la réorganisation des
+centres de calcul du CNRS, CIRCÉ et part du CNRS dans le groupement d’intérêt économique du Centre de calcul vectoriel pour la recherche (CCVR), organisme qui eut, entre 1984 et 1993, un rôle
+primordial pour l’accès et la promotion du calcul vectoriel dans la recherche. Le projet déboucha fin 1993 sur la création du nouveau centre de calcul intensif du CNRS, l’Institut du développement et des ressources en informatique scientifique (IDRIS), dans les locaux de l’ancien CIRCÉ.</p>
+<p>L’IDRIS, à son tour, a connu un développement constant et spectaculaire. Il fait partie depuis 2007, avec ses partenaires du Très grand centre de calcul du CEA (TGCC), du Centre informatique
+national de l’enseignement supérieur (CINES) et sous l’égide de la société civile GENCI (Grand équipement national de calcul intensif), de l’infrastructure nationale au service de l’ensemble du
+monde de la recherche.</p>
+<p>À l’heure de sa disparition, il convient de célébrer le rôle pionnier, majeur et moteur qu’a tenu
+Janine Connes dans le développement du calcul scientifique en France.</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes#footnote-label" class="hash-link" aria-label="Lien direct vers Footnotes" title="Lien direct vers Footnotes" translate="no">​</a></h2>
+<ol>
+<li id="user-content-fn-1-5d8a15">
+<p>Janine Connes (avec la participation de Françoise Perriquet), <a href="https://laboutique.edpsciences.fr/produit/1253/9782759825783/de-l-ibm-360-75-au-superordinateur-jean-zay" target="_blank" rel="noopener noreferrer">De l'IBM 360/75 au superordinateur Jean Zay</a>, EDP Sciences, 2022. <a href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes#user-content-fnref-1-5d8a15" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-fn-2-5d8a15">
+<p><a href="http://cwp.library.ucla.edu/Phase2/Connes,_Janine@841234567.html" target="_blank" rel="noopener noreferrer">Mary R. Masson</a> : Fourier Transform Infrared Spectroscopy was "a very significant contribution to the theoretical and experimental development of Fourier Transform Infrared spectroscopy. Instrument developed were used for observation of the night sky. The advantage of such instruments in having an accurate laser-referenced frequency scale is referred to as the `Connes advantage.'" <a href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/deces-janine-connes#user-content-fnref-2-5d8a15" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="actu" term="actu"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-29]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-29</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-29"/>
+        <updated>2024-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Adaptation aux nouveaux termes de la licence Anaconda]]></summary>
+        <content type="html"><![CDATA[<p>Adaptation aux nouveaux termes de la licence Anaconda</p>
+<p>[English version below]</p>
+<p>Bonjour,</p>
+<p>Depuis l'été 2024, l'utilisation des dépôts Anaconda est soumise à tarification
+(<a href="https://legal.anaconda.com/policies/" target="_blank" rel="noopener noreferrer">https://legal.anaconda.com/policies/</a>). Comme l'IDRIS ne prévoit pas d'acheter de licence, quelques
+mesures ont été mises en place sur Jean Zay pour limiter au maximum les requêtes vers les dépôts payants.</p>
+<p>1/ Les nouveaux environnements conda installés pour vous par l'assistance IDRIS seront proposés via
+Miniforge et non plus via Anaconda. Les anciens environnements basés sur Anaconda resteront disponibles
+et pourront toujours être enrichis sur demande. L'assistance prendra soin de viser des dépôts ouverts
+comme conda-forge.</p>
+<p>2/ Le comportement de tout environnement conda existant sur Jean Zay a été modifié grâce au déploiement
+d'un fichier de configuration /etc/conda/.condarc sur l'ensemble des noeuds ayant un accès à internet
+(noeuds de connexion, prepost, compil, archive, visu). Grâce à lui, toutes les installations effectuées
+par conda visent maintenant en priorité le dépôt ouvert conda-forge.</p>
+<p>3/ Malgré le déploiement du nouveau fichier de configuration, certaines requêtes vers les dépôts
+Anaconda peuvent persister si vous utilisez Anaconda ou Miniconda. Nous vous demandons d'être attentives
+et attentifs lors de vos installations. Finalement, nous vous invitons fortement à travailler avec
+Miniforge à partir de maintenant pour éviter ce problème. Un module "miniforge/24.9.0" est déjà
+disponible et de nouvelles versions seront régulièrement installées. Au contraire, nous ne prévoyons
+plus de maintenir les modules Anaconda à l'avenir.</p>
+<p>N'hésitez pas à contacter <a href="mailto:assist@idris.fr" target="_blank" rel="noopener noreferrer">assist@idris.fr</a> si vous avez des questions à ce sujet.</p>
+<p>Bien cordialement,
+L'équipe assistance IDRIS</p>
+<hr>
+<p>Hello,</p>
+<p>Since summer 2024, the use of Anaconda repositories has been subject to pricing
+(<a href="https://legal.anaconda.com/policies/" target="_blank" rel="noopener noreferrer">https://legal.anaconda.com/policies/</a>). As IDRIS does not plan to purchase a license, a few measures
+have been put in place on Jean Zay to limit requests to paid repositories as much as possible.</p>
+<p>1/ The new conda environments installed for you by IDRIS support will be provided using Miniforge and
+no longer using Anaconda. Older Anaconda-based environments will remain available and can still be
+completed on request. Support will take care to target open repositories such as conda-forge.</p>
+<p>2/ The behavior of any existing conda environment on Jean Zay has been modified by deploying a
+configuration file /etc/conda/.condarc on all nodes with internet access (connection nodes, prepost,
+compil, archive, visu). As a result, all installations performed by conda now target the open
+repository conda-forge as a priority.</p>
+<p>3/ Despite the deployment of the new configuration file, some requests to Anaconda repositories may
+persist if you are using Anaconda or Miniconda. We ask you to be attentive during your installations.
+Finally, we strongly advise you to work with Miniforge from now on to avoid this problem. A
+“miniforge/24.9.0” module is already available, and new versions will be installed regularly. On the
+contrary, we no longer plan to maintain Anaconda modules in the future.</p>
+<p>Please do not hesitate to contact <a href="mailto:assist@idris.fr" target="_blank" rel="noopener noreferrer">assist@idris.fr</a> if you have any question on this subject.</p>
+<p>Best regards,
+The IDRIS Support Team</p>
+<hr>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restrictions de licence pour l'utilisation d'Alphafold3 sur Jean Zay]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/licence-alphafold3</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/licence-alphafold3"/>
+        <updated>2024-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deepmind a ouvert le code d'Alphafold 3 et l'a rendu disponible sur Github. Cependant les poids du modèle sont eux soumis à une licence qui fait qu'il ne sera pas possible de les rendre disponibles à tous les utilisateurs de l'IDRIS.]]></summary>
+        <content type="html"><![CDATA[<p>Deepmind a ouvert le code d'Alphafold 3 et l'a rendu disponible sur Github. Cependant les poids du modèle sont eux soumis à une licence qui fait qu'il ne sera pas possible de les rendre disponibles à tous les utilisateurs de l'IDRIS.</p>
+<p><a href="https://github.com/google-deepmind/alphafold3/blob/main/WEIGHTS_TERMS_OF_USE.md" target="_blank" rel="noopener noreferrer">https://github.com/google-deepmind/alphafold3/blob/main/WEIGHTS_TERMS_OF_USE.md</a></p>
+<p>En effet, un certain nombre personnes utilisant les ressources de l'IDRIS ne font pas partie du monde académique.</p>
+<p>Nous allons contacter Deepmind pour voir s'il est possible dans notre situation de partager les poids. En attendant une réponse, nous allons appliquer la procédure suivante :</p>
+<ul>
+<li>L'IDRIS fait l'installation du code de façon à ce qu'il soit accessible à tous les utilisateurs.</li>
+<li>Chaque personne souhaitant utiliser Alphafold 3 devra obtenir l'autorisation auprès de Deepmind via le formulaire suivant <a href="https://forms.gle/svvpY4u2jsHEwWYS6" target="_blank" rel="noopener noreferrer">https://forms.gle/svvpY4u2jsHEwWYS6</a> . Il est à noter que la réponse peut prendre jusque 2 semaines.</li>
+<li>Les poids devront être installés localement sur le compte de chaque personne souhaitant utiliser Alphafold3.</li>
+</ul>
+<p>Nous avons fait la demande des poids du modèle pour pouvoir faire des tests en interne.</p>
+<p>Une fois ces tests fait, nous publierons une documentation sur le site avec toutes les étapes pour faire fonctionner Alphafold 3.</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="actu" term="actu"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-28]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-28</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-28"/>
+        <updated>2024-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sommaire :]]></summary>
+        <content type="html"><![CDATA[<p>Sommaire :</p>
+<ul>
+<li>Panoram'IA : rendez-vous vendredi 15/11 à 10h</li>
+<li>DSDIR non accessible depuis la partition H100</li>
+<li>Arrêt de l'ancien espace STORE fin novembre 2024</li>
+<li>Formations IDRIS</li>
+</ul>
+<hr>
+<ul>
+<li>Panoram'IA : rendez-vous vendredi 15/11 à 10h</li>
+</ul>
+<p>L'assistance de l'IDRIS vous propose ce vendredi matin 15/11 à 10h, "Panoram'IA" : le magazine vidéo
+mensuel et en direct qui aborde l'actualité scientifique et technique de l'IA. Au programme de cette
+session : les brèves de l'IA, une intervention d'experts : "QROA : L’art et la science de jailbreaker
+des LLMs" et notre sélection de papiers avec Papers Storm. Le direct ainsi que les rediffusions sont
+disponibles sur notre chaîne Youtube "Un oeil sur l'IDRIS" : <a href="https://www.youtube.com/@idriscnrs" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@idriscnrs</a>.</p>
+<ul>
+<li>DSDIR non accessible depuis la partition H100</li>
+</ul>
+<p>Nous vous rappelons que l'espace DSDIR sur lequel nous stockons les jeux de données et modèles publics
+utiles à la communauté (<a href="http://www.idris.fr/jean-zay/gpu/jean-zay-gpu-dataset.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/jean-zay/gpu/jean-zay-gpu-dataset.html</a>) n'est pour l'instant
+pas accessible depuis la nouvelle partition H100 de Jean Zay. Du matériel est actuellement en cours
+d'installation afin de permettre sa migration vers un nouveau système de stockage utilisant Lustre qui
+sera accessible depuis toutes les partitions. Ce nouvel espace devrait être opérationnel d'ici à la fin de
+l'année 2024. En attendant, si vous avez besoin d'utiliser un jeu de données ou un modèle disponible dans
+le DSDIR depuis un nœud H100, nous vous recommandons de le copier dans votre SCRATCH.</p>
+<ul>
+<li>Arrêt de l'ancien espace STORE fin novembre 2024</li>
+</ul>
+<p>Suite à la migration de l'espace STORE vers un nouveau système de stockage Lustre durant l'été, l'ancien
+espace STORE restait accessible en lecture seule en utilisant la variable d'environnement "$OLDSTORE"
+(<a href="http://www.idris.fr/jean-zay/modifications-extension-jean-zay-h100.html#cas_particulier_du_store" target="_blank" rel="noopener noreferrer">http://www.idris.fr/jean-zay/modifications-extension-jean-zay-h100.html#cas_particulier_du_store</a>).
+L'arrêt définitif de cet espace aura lieu à la fin du mois de novembre 2024.</p>
+<ul>
+<li>Formations IDRIS</li>
+</ul>
+<p>Pensez à vous inscrire dès maintenant aux formations IDRIS planifiées pour le restant de l'année et début
+2025 :</p>
+<ul>
+<li>Débogage HPC, le 22 novembre</li>
+<li>Vectorisation SIMD, le 26 novembre</li>
+<li>Deep Learning Optimisé sur Jean Zay, les 14, 15, 16 et 17 janvier</li>
+<li>MPI, les 18, 19, 20 et 21 mars</li>
+<li>OpenMP, les 26, 27 et 28 mars</li>
+</ul>
+<p>Pour plus d'informations sur le catalogue des formations de l'IDRIS et les modalités d'inscription :
+<a href="http://www.idris.fr/formations/catalogue.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/formations/catalogue.html</a>.</p>
+<hr>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-27]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-27</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-27"/>
+        <updated>2024-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Changements importants : QoS, JupyterHub, H100]]></summary>
+        <content type="html"><![CDATA[<p>Changements importants : QoS, JupyterHub, H100</p>
+<p>[English version below]</p>
+<p>Bonjour,</p>
+<p>Suite à la maintenance d'aujourd'hui (mardi 1er octobre), plusieurs changements pourront vous impacter.</p>
+<ul>
+<li>Changement de noms des QoS pour la partition A100</li>
+</ul>
+<p>Afin de pouvoir gérer plus finement le partage des ressources sur la machine, des QoS spécifiques
+ont été définies pour la partition A100. Si vous utilisiez explicitement les QoS "qos_gpu-t3" ou
+"qos_gpu-dev" dans vos soumissions de travaux ciblant cette partition, vous devrez utiliser à la
+place "qos_gpu_a100-t3" ou "qos_gpu_a100-dev". La QoS "qos_gpu_a100-t3" est utilisée par défaut
+et peut être omise.</p>
+<p>Les partitions CPU et V100 ne sont pas touchées par ce changement.</p>
+<p>La documentation a été mise à jour en conséquence : <a href="http://www.idris.fr/jean-zay/gpu/jean-zay-gpu-exec_partition_slurm.html#les_qos_disponibles" target="_blank" rel="noopener noreferrer">http://www.idris.fr/jean-zay/gpu/jean-zay-gpu-exec_partition_slurm.html#les_qos_disponibles</a>.</p>
+<ul>
+<li>Usage des QoS via JupyterHub</li>
+</ul>
+<p>Si vous souhaitez spécifier une QoS lorsque vous utilisez le lanceur Slurm sur JupyterHub, il faudra
+maintenant la spécifier manuellement dans le champ "Extra #SBATCH directives".</p>
+<ul>
+<li>Changement de l'adresse IP de JupyterHub</li>
+</ul>
+<p>L'adresse IP de notre instance JupyterHub a été modifiée. Il s'agit maintenant de 130.84.132.56. Ce
+changement peut vous impacter si votre organisme applique un filtrage par adresse IP des connexions
+sortantes. Si vous rencontrez des difficultés de connexion à JupyterHub, nous vous suggérons de
+prendre contact avec votre service informatique en leur signalement ce changement.</p>
+<p>Pour rappel, la plage des adresses IP utilisées pour les machines et les services de l'IDRIS est la
+suivante : 130.84.132.0/23. Nous recommandons d'autoriser la plage complète plutôt que des adresses
+IP spécifiques afin de ne pas être affecté par de futurs changements internes à notre infrastructure.</p>
+<ul>
+<li>Ouverture de la partition H100</li>
+</ul>
+<p>Les utilisateurs ayant déjà obtenu des heures H100 peuvent désormais les utiliser. Vous pouvez
+vous inspirer de l'exemple ci-dessous :</p>
+<div class="language-sh codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-sh codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token shebang important">#!/bin/bash</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --job-name=mon_travail       # nom du job</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH -A xyz@h100                  # comptabilite a utiliser, avec xyz le trigramme de votre projet</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH -C h100                      # pour cibler les noeuds H100</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic"># Ici, reservation de 3x24=72 CPU (pour 3 taches) et de 3 GPU (1 GPU par tache) sur un seul noeud :</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --nodes=1                    # nombre de noeud</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --ntasks-per-node=3          # nombre de tache MPI par noeud (= ici nombre de GPU par noeud)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --gres=gpu:3                 # nombre de GPU par noeud (max 4 pour les noeuds H100)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic"># Sachant qu'ici on ne reserve qu'un seul GPU par tache (soit 1/4 des GPUs),</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic"># l'ideal est de reserver 1/4 des CPU du noeud pour chaque tache:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --cpus-per-task=24           # nombre de CPU par tache (1/4 des CPUs ici)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic"># /!\ Attention, "multithread" fait reference a l'hyperthreading dans la terminologie Slurm</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --hint=nomultithread         # hyperthreading desactive</span><br></span></code></pre></div></div>
+<p>Notez que les modules par défaut ne sont pas compatibles avec la partition H100. Afin de retrouver
+l'environnement logiciel spécifique à cette partition, vous devez charger le module "arch/h100" :
+<a href="http://www.idris.fr/jean-zay/cpu/jean-zay-cpu-doc_module.html#modules_compatibles_avec_la_partition_gpu_p6" target="_blank" rel="noopener noreferrer">http://www.idris.fr/jean-zay/cpu/jean-zay-cpu-doc_module.html#modules_compatibles_avec_la_partition_gpu_p6</a>. Cela doit être fait dans vos scripts de soumission mais aussi dans votre terminal si vous avez
+besoin de compiler des codes.</p>
+<p>Si vous n'avez pas encore d'heures H100, le responsable du projet peut faire une demande
+au fil de l'eau sur le portail eDARI si nécessaire.</p>
+<p>N'hésitez pas à contacter <a href="mailto:assist@idris.fr" target="_blank" rel="noopener noreferrer">assist@idris.fr</a> en cas de besoin.</p>
+<p>Cordialement,
+L'équipe support de l'IDRIS</p>
+<hr>
+<p>Dear Jean Zay user,</p>
+<p>Several changes might affect you after today's maintenance operations (Tuesday October 1st):</p>
+<ul>
+<li>Qos name changes for the A100 partition</li>
+</ul>
+<p>In order to more precisely manage the ressource sharing of the machine, specific QoS have been defined
+for the A100 partition. If you used to explicitely specify "qos_gpu-t3" or "qos_gpu-dev" in your Slurm
+jobs targeting the A100 partition, you now have to use "qos_gpu_a100-t3" or "qos_gpu_a100-dev" instead.
+Note that the "qos_gpu_a100-t3" QoS is used by default and may be omitted.</p>
+<p>The CPU and V100 partitions are not affected by these changes.</p>
+<p>The on-line documentation has been updated: <a href="http://www.idris.fr/eng/jean-zay/gpu/jean-zay-gpu-exec_partition_slurm-eng.html#available_qos" target="_blank" rel="noopener noreferrer">http://www.idris.fr/eng/jean-zay/gpu/jean-zay-gpu-exec_partition_slurm-eng.html#available_qos</a></p>
+<ul>
+<li>Use of QoS through JupyterHub</li>
+</ul>
+<p>If you wish to specify a QoS when using Slurm on JupyterHub, you now have to do it manually in
+the "Extra #SBATCH directives" field.</p>
+<ul>
+<li>JupyterHub IP address change</li>
+</ul>
+<p>The IP address of our JupyterHub instance has been modified. It is now 130.84.132.56. This change
+might impact you if your institution applies an IP address filtering of outgoing connections. If
+you run into difficulties when connectng to JupyterHub, we invite you to contact your local
+administrator to mention this change.</p>
+<p>As a reminder, the set of IP addresses used for the IDRIS machines and services is the following:
+130.84.132.0/23. We recommend to authorize the complete set rather than specific IP addresses so
+as not to be affected by potential future internal changes of our infrastructure.</p>
+<ul>
+<li>Opening of the H100 partition</li>
+</ul>
+<p>Users who were already granted H100 computing hours may now use them. An example submission script is as follows:</p>
+<div class="language-sh codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-sh codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token shebang important">#!/bin/bash</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --job-name=my_job            # job name</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH -A xyz@h100                  # account to use, with xyz the 3 letter code of your project</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH -C h100                      # to target H100 nodes</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic"># Example reservation of 3x24=72 CPU (for 3 tasks) and 3 GPU (1 GPU per task) on one node:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --nodes=1                    # number of nodes</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --ntasks-per-node=3          # number of MPI tasks per node (= number of GPU requested per node here)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --gres=gpu:3                 # number of GPU requested per node (max. 4 for H100 nodes)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic"># Since here only one GPU per task is requested (i.e., 1/4 of the available GPUs)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic"># the best way to proceed is to book 1/4 of the node's CPU for each task:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --cpus-per-task=24           # number of CPU per task (1/4 of the CPUs here)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic"># /!\ Caution, "multithread" in Slurm vocabulary refers to hyperthreading.</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">#SBATCH --hint=nomultithread         # hyperthreading deactived</span><br></span></code></pre></div></div>
+<p>Note that the default modules are not compatible with the H100 partition. In order to use the
+software environment dedicated to this partition, you need to load the "arch/h100" module:
+<a href="http://www.idris.fr/eng/jean-zay/cpu/jean-zay-cpu-doc_module-eng.html#modules_compatible_with_gpu_p6_partition" target="_blank" rel="noopener noreferrer">http://www.idris.fr/eng/jean-zay/cpu/jean-zay-cpu-doc_module-eng.html#modules_compatible_with_gpu_p6_partition</a>.
+This is needed for your submission scripts but also in your shell when compiling codes.</p>
+<p>If you do not have H100 computing hours yet, your project manager may ask for supplementary hours
+("au fil de l'eau") on the eDARI portal if necessary.</p>
+<p>Do not hesitate to contact <a href="mailto:assist@idris.fr" target="_blank" rel="noopener noreferrer">assist@idris.fr</a> if needed.</p>
+<p>Best regards,
+The IDRIS support team</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-26]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-26</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-26"/>
+        <updated>2024-09-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arrêt électrique : mardi 8 et mercredi 9 octobre 2024]]></summary>
+        <content type="html"><![CDATA[<p>Arrêt électrique : mardi 8 et mercredi 9 octobre 2024</p>
+<p>[English version below]</p>
+<p>Bonjour,</p>
+<p>Une maintenance de l'infrastructure technique de l'IDRIS nécessitera la mise à l'arrêt du centre
+mardi 8 et mercredi 9 octobre prochains. La machine Jean Zay sera indisponible du mardi 8 octobre
+à 6h jusqu'au jeudi 10 octobre à 12h. L'espace STORE sera indisponible dès l'après-midi du lundi
+7 octobre.</p>
+<p>Le service de support aux utilisateurs sera fermé pendant ces deux jours. Le site web restera
+accessible et vous pourrez suivre la disponibilité des machines sur la page habituelle :
+<a href="http://www.idris.fr/statut.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/statut.html</a>.</p>
+<p>Nous sommes désolés pour la gêne que cette opération pourrait occasionner.</p>
+<p>Cordialement,
+L'équipe support de l'IDRIS</p>
+<hr>
+<p>Hello,</p>
+<p>A maintenance operation on the technical infrastructure of IDRIS will require the center to be
+shut down completely on Tuesday October 8th and Wednesday October 9th. The Jean Zay machine will
+be unavailable from Tuesday October 8th at 6am until Thursday October 10th at noon. The STORE disk
+space will be unavailable starting from Monday October 7th in the afternoon.</p>
+<p>User support will be closed for these two days. The website will remain accessible and you will
+be able to check the machine availability on the usual page: <a href="http://www.idris.fr/status.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/status.html</a>.</p>
+<p>We are sorry for any inconvenience this maintenance operation might cause.</p>
+<p>Best regards,
+The IDRIS User Support Team</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-25]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-25</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-25"/>
+        <updated>2024-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sommaire :]]></summary>
+        <content type="html"><![CDATA[<p>Sommaire :</p>
+<ul>
+<li>Panoram'IA : rendez-vous vendredi 27/09 à 10h</li>
+<li>Formations IDRIS</li>
+</ul>
+<hr>
+<ul>
+<li>Panoram'IA : rendez-vous vendredi 27/09 à 10h</li>
+</ul>
+<p>L'assistance de l'IDRIS vous propose ce vendredi matin 27/09 à 10h, "Panoram'IA" : le magazine vidéo
+mensuel et en direct qui aborde l'actualité scientifique et technique de l'IA. Au programme de cette
+session : les brèves de l'IA, les TransformerEngine, l'HyperCloning et notre sélection de papiers avec
+Papers Storm. Le direct ainsi que les rediffusions sont disponibles sur notre chaîne Youtube "Un oeil
+sur l'IDRIS" : <a href="https://www.youtube.com/@idriscnrs" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@idriscnrs</a>. Les sessions suivantes auront lieu les 18 octobre 🎃,
+15 novembre et 6 décembre 🎅.</p>
+<ul>
+<li>Formations IDRIS</li>
+</ul>
+<p>Pensez à vous inscrire dès maintenant aux formations IDRIS planifiées pour le restant de l'année :</p>
+<ul>
+<li>OpenMP, du 16 au 18 octobre</li>
+<li>Introduction pratique au Deep Learning, les 4 et 5 novembre</li>
+<li>Architectures du Deep Learning, les 6 et 7 novembre</li>
+<li>Atelier de lancement en Deep Learning, le 8 novembre</li>
+<li>Débogage HPC, le 22 novembre</li>
+<li>Vectorisation SIMD, le 26 novembre</li>
+<li>Introduction à la bibliothèque PETSc, les 5 et 6 décembre</li>
+</ul>
+<p>Pour plus d'informations sur le catalogue 2024 des formations de l'IDRIS et les modalités d'inscription :
+<a href="http://www.idris.fr/formations/catalogue.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/formations/catalogue.html</a>.</p>
+<hr>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-24]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-24</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-24"/>
+        <updated>2024-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Opération sur le gestionnaire de travaux Slurm le 1er octobre]]></summary>
+        <content type="html"><![CDATA[<p>Opération sur le gestionnaire de travaux Slurm le 1er octobre</p>
+<p>[English version below]</p>
+<p>Bonjour,</p>
+<p>Dans le cadre de l'intégration de la nouvelle partition H100 à la machine Jean Zay, une opération
+est prévue sur le gestionnaire de travaux Slurm le mardi 1er octobre 2024 de 8h à 13h. La machine
+sera indisponible pendant cette période.</p>
+<p>Contrairement aux opérations de maintenance habituelles, les travaux en attente qui n'auront pas
+pu s'exécuter avant la maintenance seront perdus. Il vous faudra les soumettre à nouveau au
+redémarrage de la machine.</p>
+<p>De plus, la base de données contenant l'historique des travaux Slurm sera réinitialisée. Vous n'aurez
+donc plus accès aux informations concernant les travaux antérieurs à la maintenance via la commande
+"sacct". Néanmoins cela n'impactera pas la comptabilité des heures consommées visible via la commande
+"idracct".</p>
+<p>Nous sommes désolés pour la gêne que cette opération pourrait occasionner.</p>
+<p>Cordialement,
+L'équipe support de l'IDRIS</p>
+<hr>
+<p>Hello,</p>
+<p>As part of the integration of the new H100 partition to the Jean Zay machine, an operation is planned
+on the job scheduler Slurm on Tuesday, October 1st 2024 from 8am to 1pm. The machine will be unavailable
+during that time.</p>
+<p>Unlike the usual maintenance operations, the pending jobs that could not run before the maintenance
+operation will be lost. You will have to resubmit them after the machine is back online.</p>
+<p>Moreover, the database which stores the Slurm jobs history will be reset. This means you will not have
+access anymore to the information about past jobs using the "sacct" command. However, there will be no
+impact on the accounting of your computing hours visible using the "idracct" command.</p>
+<p>We are sorry for any inconvenience this maintenance operation might cause.</p>
+<p>Best regards,
+The IDRIS User Support Team</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-23]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-23</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-23"/>
+        <updated>2024-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sommaire :]]></summary>
+        <content type="html"><![CDATA[<p>Sommaire :</p>
+<ul>
+<li>Prochaine réunion du CU de l'IDRIS : jeudi 26 septembre 2024</li>
+<li>L'IDRIS participe à la Fête de la Science les 11 et 12 octobre 2024</li>
+<li>Formations IDRIS</li>
+</ul>
+<hr>
+<ul>
+<li>Prochaine réunion du CU de l'IDRIS : jeudi 26 septembre 2024</li>
+</ul>
+<p>La prochaine réunion du Comité des utilisateurs (CU) de l'IDRIS aura lieu le 26 septembre 2024 dans les locaux de l'IDRIS. N'hésitez pas à transmettre vos demandes à l'adresse : cu-elus at idris.fr. Plus d'information : <a href="http://www.idris.fr/cu.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/cu.html</a></p>
+<ul>
+<li>L'IDRIS participe à la Fête de la Science les 11 et 12 octobre 2024</li>
+</ul>
+<p>Suite au succès rencontré les années précédentes, l'IDRIS renouvelle l'expérience et participe à nouveau aux Visites !nsolites du CNRS organisées dans le cadre de la Fête de la Science. Les inscriptions sont ouvertes du 2 au 22 septembre 2024 ! Pour plus d'information : <a href="http://www.idris.fr/annonces/idris-fete-de-la-science.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/annonces/idris-fete-de-la-science.html</a>.</p>
+<ul>
+<li>Formations IDRIS</li>
+</ul>
+<p>Pensez à vous inscrire dès maintenant aux formations IDRIS planifiées pour le restant de l'année :</p>
+<ul>
+<li>MPI, du 24 au 27 septembre</li>
+<li>Workshop Jean Zay, les 3 et 4 octobre</li>
+<li>OpenMP, du 16 au 18 octobre</li>
+<li>Deep Learning Optimisé sur Jean Zay, du 22 au 25 octobre</li>
+<li>Introduction pratique au Deep Learning, les 4 et 5 novembre</li>
+<li>Architectures du Deep Learning, les 6 et 7 novembre</li>
+<li>Atelier de lancement en Deep Learning, le 8 novembre</li>
+<li>Débogage HPC, le 22 novembre</li>
+<li>Vectorisation SIMD, le 26 novembre</li>
+<li>Introduction à OpenACC et OpenMP GPU, du 27 au 29 novembre</li>
+<li>Introduction à la bibliothèque PETSc, les 5 et 6 décembre</li>
+</ul>
+<p>Pour plus d'information sur le catalogue 2024 des formations de l'IDRIS et les modalités d'inscription : <a href="http://www.idris.fr/formations/catalogue.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/formations/catalogue.html</a>.</p>
+<hr>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-22]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-22</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-22"/>
+        <updated>2024-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arrêt du SCRATCH actuel le 3 septembre 2024]]></summary>
+        <content type="html"><![CDATA[<p>Arrêt du SCRATCH actuel le 3 septembre 2024</p>
+<p>[English version below]</p>
+<p>Bonjour,</p>
+<p>Dans le cadre du renouvellement des espaces de stockage accompagnant l'extension H100 de Jean Zay,
+l'actuel espace SCRATCH sera définitivement arrêté le mardi 3 septembre 2024.</p>
+<p>Comme annoncé précédemment, <em>il n'y aura pas de recopie automatique du contenu actuel du SCRATCH
+vers le nouvel espace</em>.</p>
+<p>Afin d'anticiper cet arrêt, nous vous invitons donc à recopier dès maintenant les données que vous
+souhaitez conserver vers le nouvel espace déjà accessible via la variable d'environnement $NEWSCRATCH
+(ou $ALL_CCFRNEWSCRATCH pour l'espace commun au projet) et à l'utiliser dans vos travaux en modifiant
+vos scripts de soumission en conséquence.</p>
+<p>Les transferts peuvent être effectués via un ou plusieurs travaux sur la partition "archive" ou en
+interactif depuis les frontales si le volume à transférer est limité :
+<a href="http://www.idris.fr/jean-zay/modifications-extension-jean-zay-h100.html#recopies_scratch_et_all_scratch" target="_blank" rel="noopener noreferrer">http://www.idris.fr/jean-zay/modifications-extension-jean-zay-h100.html#recopies_scratch_et_all_scratch</a>.</p>
+<p>Afin d'éviter les confusions entre les différents espaces et pour faciliter le suivi des migrations,
+nous vous recommandons de supprimer les données dont vous n'avez plus besoin et celles transférées
+avec succès.</p>
+<p>N'oubliez pas que ce nouvel espace SCRATCH reste lui aussi soumis à la suppression automatique des
+données non utilisées pendant 30 jours.</p>
+<p>Cordialement,
+L'équipe assistance de l'IDRIS</p>
+<hr>
+<p>Dear Jean Zay user,</p>
+<p>As part of the renewal of the storage spaces accompanying the H100 extension of Jean Zay, the current
+SCRATCH disk space will be permanently shutdown on Tuesday, September 3rd, 2024.</p>
+<p>As previously announced, <em>there will be no automatic copy of the current SCRATCH space to the new one</em>.</p>
+<p>To anticipate this shutdown, we invite you to migrate as soon as possible the data you wish to keep to
+the new space already accessible through the $NEWSCRATCH (or $ALL_CCFRNEWSCRATCH for the common project
+spaces) and to use that disk space in your jobs by modifying your submission scripts accordingly.</p>
+<p>The data transfers can done using one or more jobs on the "archive" partition, or interactively from
+the login nodes if the volume to be transferred is limited:
+<a href="http://www.idris.fr/eng/jean-zay/modifications-extension-jean-zay-h100-eng.html#scratch_et_all_scratch_copies" target="_blank" rel="noopener noreferrer">http://www.idris.fr/eng/jean-zay/modifications-extension-jean-zay-h100-eng.html#scratch_et_all_scratch_copies</a>.</p>
+<p>In order to avoid confusions between the different disk spaces and facilitate the monitoring of the migration operation, we suggest that you remove any data that you will not need anymore or that you
+have already successfully migrated.</p>
+<p>Please be aware that the new SCRATCH space is also subject to the 30 day deletion policy
+of the unused data.</p>
+<p>Best regards,
+The IDRIS support team</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-21]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-21</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-21"/>
+        <updated>2024-07-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Migration du WORK et du HOME]]></summary>
+        <content type="html"><![CDATA[<p>Migration du WORK et du HOME</p>
+<p>[English version below]</p>
+<p>Bonjour,</p>
+<p>Comme annoncé précédemment, l'arrivée de l'extension H100 s'accompagne d'un renouvellement des espaces
+de stockage de Jean Zay avec l'installation d'un nouveau système de stockage Lustre qui offrira une
+volumétrie de stockage plus importante et une bande passante améliorée.</p>
+<p>La migration des HOME est terminée depuis la maintenance de ce matin (30 juillet 2024). Nous vous
+invitons à vérifier vos scripts pour corriger les éventuels chemins codés en dur. Tout chemin de
+la forme "/gpfs7kw/linkhome/..." doit devenir "/linkhome/..." ou, si possible, être remplacé par
+l'usage de la variable d'environnement $HOME.</p>
+<p>La migration des espaces WORK a démarré aujourd'hui. Elle est également effectuée par les équipes
+de l'IDRIS, vous n'avez donc pas d'action particulière à effectuer. Cette opération se fera par lot
+pour éviter une trop longue indisponibilité de la machine. Elle nécessitera cependant l'interruption
+des QoS "qos_cpu-t4" et "qos_gpu-t4" permettant l'exécution des travaux de plus de 20h.</p>
+<p>Pour un projet donné, la migration se passera de la façon suivante :</p>
+<ul>
+<li>20h avant le début de la migration, les travaux utilisant les heures du projet ne pourront plus
+démarrer afin d'éviter que des travaux essaient d'accéder au WORK pendant l'opération (ils apparaîtront
+alors avec le statut "AssocGrpJobsLimit")</li>
+<li>juste avant le début de la migration, l'espace WORK du projet deviendra complètement indisponible,
+y compris depuis les frontales</li>
+<li>une fois la migration terminée, les variables d'environnement seront modifiées afin de pointer
+vers les nouveaux espaces WORK sur le système de stockage Lustre et les travaux en attente pourront
+à nouveau s'exécuter.</li>
+</ul>
+<p>Attention : Si vous avez des travaux qui utilisent les heures d'un projet mais accèdent à l'espace
+WORK d'un autre projet, ils risquent d'échouer car nous ne pourrons pas bloquer leur démarrage de
+façon pertinente.</p>
+<p>Une commande "idr_migstatus" vous permet de suivre la migration de vos projets en indiquant pour
+chacun son statut actuel :</p>
+<ul>
+<li>"pending" : la migration n'a pas encore été effectuée, vos travaux peuvent toujours s'exécuter
+et vous avez accès à votre WORK</li>
+<li>"planned" : la migration va commencer dans les prochaines 24h, les nouveaux travaux ne peuvent
+plus démarrer mais vous avez toujours accès à votre WORK</li>
+<li>"in progress" : la migration est en cours, vous n'avez plus accès à votre WORK</li>
+<li>"migrated" : la migration est terminée, vous avez à nouveau accès à votre WORK et vos travaux
+peuvent à nouveau s'exécuter.</li>
+</ul>
+<p>Remarque : Le chemin absolu des espaces WORK va changer à l'occasion de la migration mais pour
+simplifier la transition, des liens seront mis en place de sorte à ce que les anciens chemins
+absolus restent fonctionnels au moins dans un premier temps. Une fois la migration effectuée,
+nous vous invitons néanmoins à modifier les éventuels chemins de la forme "/gpfswork/..." ou
+"/gpfsdswork/projects/..." qui pourraient apparaître dans vos scripts (si possible en les
+remplaçant par l'usage de la variable d'environnement) ou dans vos liens symboliques.</p>
+<p>Nous nous excusons pour la gêne que ces opérations pourraient engendrer.</p>
+<p>Cordialement,
+L'équipe support de l'IDRIS</p>
+<hr>
+<p>Dear Jean Zay user,</p>
+<p>As previously announced, the installation on the new H100 extension comes with a renewal of the Jean Zay
+storage spaces with the installation of a new Lustre storage system offering an increased storage capacity
+and an improved bandwidth.</p>
+<p>The migration of the HOME spaces is completed since today's maintenance operation (July 30th, 2024).
+We invite you to check your scripts in order to correct any hard-coded paths. Any path starting with
+"/gpfs7kw/linkhome/..." should become "/linkhome/..." or, if possible, the $HOME environment variable
+should be used instead.</p>
+<p>The migration of the WORK spaces started today. This operation is also handled by the IDRIS teams so you
+do not have any specific actions to perform. The migration will be done by batch of projects to avoid
+having a long downtime of the machine. It will however require suspending the "qos_cpu-t4" and
+"qos_gpu-t4" QoS which allow running jobs of more than 20h.</p>
+<p>For a specific project, the migration process will be as follow:</p>
+<ul>
+<li>20h before the migration begins, the jobs using computing hours allocated to that project will be
+held in queue (with the "AssocGrpJobsLimit" status) in order to avoid having jobs that use the WORK
+during the migration operation</li>
+<li>just before the migration starts, the WORK space will become completely unavailable, including from
+the login nodes</li>
+<li>once the migration is done, the environment variables will be modified to point to the new Lustre
+WORK space and your jobs will be able to run again.</li>
+</ul>
+<p>Warning: If you have jobs that use the computing hours from a project but access the WORK disk spaces
+of another project, they might fail because we have no way to prevent them from starting when they
+should not.</p>
+<p>The "idr_migstatus" command allows to monitor the migration of your projects by indicating the current
+status of each of them:</p>
+<ul>
+<li>"pending" : the migration has not started yet, there is no impact on your jobs and you can access
+your WORK</li>
+<li>"planned" : the migration is going to start in the next 20h, jobs that are not yet running will
+stay pending but you can still access your WORK</li>
+<li>"in progress" : the migration is in progress, you will not have access to your WORK at this point</li>
+<li>"migrated" : the migration is done, you can access your WORK again and your jobs can run.</li>
+</ul>
+<p>Note: The absolute paths of the WORK spaces will be modified by the migration. However to ease the
+transition, symbolic links will be created in order to keep the old absolute paths working, at least
+for some times. Once the migration is completed, we do invite you to modify any absolute paths starting
+with "/gpfswork/..." or "/gpfsdswork/projects/..." that could appear in your scripts (use the environment
+variables whenever possible) or in your symbolic links.</p>
+<p>We are sorry for the inconvenience those operations might cause.</p>
+<p>Best regards,
+The IDRIS support team</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-20]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-20</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-20"/>
+        <updated>2024-07-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modalités de migration du SCRATCH]]></summary>
+        <content type="html"><![CDATA[<p>Modalités de migration du SCRATCH</p>
+<p>[English version below]</p>
+<p>Bonjour,</p>
+<p>Comme annoncé précédemment, l'arrivée de l'extension H100 s'accompagne d'un renouvellement des espaces
+de stockage de Jean Zay avec l'installation d'un nouveau système de stockage Lustre qui offrira une
+volumétrie de stockage plus importante et une bande passante améliorée.</p>
+<p>Afin d'anticiper l'arrêt de l'espace SCRATCH actuel, nous vous invitons à utiliser dès maintenant le
+nouvel espace accessible via la variable d'environnement $NEWSCRATCH (ou $ALL_CCFRNEWSCRATCH pour
+l'espace commun au projet) en modifiant vos scripts de soumission en conséquence. Une communication
+ultérieure vous précisera la date de cet arrêt avec au moins 15 jours de préavis.</p>
+<p>Il n'y aura pas de recopie automatique du contenu actuel du SCRATCH vers le nouvel espace. Par
+conséquent, si vous souhaitez conserver certaines données actuellement stockées sur le SCRATCH,
+veillez à les recopier vers votre nouvel espace NEWSCRATCH (par exemple via un ou plusieurs travaux
+sur la partition "archive" ou en interactif depuis les frontales si le volume à transférer est limité)
+et à supprimer les données dont vous n'avez plus besoin.</p>
+<p>N'oubliez pas que ce nouvel espace SCRATCH reste lui aussi soumis à la suppression automatique
+des données non utilisées pendant 30 jours.</p>
+<p>Pour plus d'informations sur les opérations en cours sur Jean Zay dans le cadre de l'installation
+de l'extension H100 : <a href="http://www.idris.fr/jean-zay/modifications-extension-jean-zay-h100.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/jean-zay/modifications-extension-jean-zay-h100.html</a>.</p>
+<p>Cordialement,
+L'équipe assistance de l'IDRIS</p>
+<hr>
+<p>Dear Jean Zay user,</p>
+<p>As previously announced, the installation on the new H100 extension comes with a renewal of the Jean Zay
+storage spaces with the installation of a new Lustre storage system offering an increased storage
+capacity and an improved bandwidth.</p>
+<p>To anticipate the shut down of the current SCRATCH space, we invite you as of now to start using the new
+SCRATCH space already accessible through the $NEWSCRATCH (or $ALL_CCFRNEWSCRATCH for the common project
+spaces) by modifying accordingly your submission scripts. The actual shut down date of the current SCRATCH
+will be announced later with at least a 15 day notice.</p>
+<p>There will be no automatic copy of the current SCRATCH space to the new one. Therefore, if you wish to
+keep some data currently stored on the SCRATCH, be sure to copy it to your new space $NEWSCRATCH (for
+instance through one or more jobs on the "archive" partition, or interactively from the login nodes if
+the volume to be transferred is limited) and to remove data you do not need anymore.</p>
+<p>Please be aware that the new SCRATCH space is also subject to the 30 day deletion policy
+of the unused data.</p>
+<p>For more information on the work in progress on Jean Zay for the H100 extension:
+<a href="http://www.idris.fr/eng/jean-zay/modifications-extension-jean-zay-h100-eng.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/eng/jean-zay/modifications-extension-jean-zay-h100-eng.html</a>.</p>
+<p>Best regards,
+The IDRIS support team</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-19]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-19</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-19"/>
+        <updated>2024-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prolongation de l'indisponibilité du STORE]]></summary>
+        <content type="html"><![CDATA[<p>Prolongation de l'indisponibilité du STORE</p>
+<p>[English version below]</p>
+<p>Bonjour,</p>
+<p>Suite à des difficultés techniques dans le cadre de la migration de l'espace STORE (voir notre précédente
+communication pour plus de détails sur la migration : <a href="http://www.idris.fr/flash-info-idris/flash-info-de-l-idris-167.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/flash-info-idris/flash-info-de-l-idris-167.html</a>),
+l'indisponibilité de cet espace disque doit malheureusement être prolongée. L'accès au STORE devrait
+pouvoir être rétabli dans la journée du jeudi 25 juillet. Nous vous invitons à consulter la page
+"Disponibilité des machines" de notre site (<a href="http://www.idris.fr/statut.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/statut.html</a>) ainsi que le mot du
+jour affiché à la connexion sur Jean Zay pour disposer des informations les plus à jour.</p>
+<p>Pour rappel, il reste néanmoins possible d'accéder en lecture seule à l'ancien espace STORE en utilisant
+la variable d'environnement "$OLDSTORE".</p>
+<p>Nous nous excusons pour la gêne occasionnée.</p>
+<p>Cordialement,
+L'équipe support de l'IDRIS</p>
+<hr>
+<p>Dear Jean Zay users,</p>
+<p>Due to technical difficulties encountered during the migration of the STORE space (cf. our last email
+for more details regarding the migration: <a href="http://www.idris.fr/flash-info-idris/flash-info-de-l-idris-167.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/flash-info-idris/flash-info-de-l-idris-167.html</a>),
+this disk space will unfortunately be unavailable for a longer period than expected. Access to the
+STORE should be possible again by the end of Thursday July 25th. You can check the "Machine availability"
+webpage (<a href="http://www.idris.fr/status.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/status.html</a>) and the message of the day displayed when logging in on
+Jean Zay for the latest updates.</p>
+<p>Please note that it remains possible to have read-only access to the old STORE using the "$OLDSTORE"
+environment variable.</p>
+<p>We are sorry for the inconvenience this may cause.</p>
+<p>Best regards,
+The IDRIS support team</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash Info de l'IDRIS n°2024-18]]></title>
+        <id>https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-18</id>
+        <link href="https://your-docusaurus-site.example.com/documentation/idris-documentation-docusaurus/blog/flash-info-2024-18"/>
+        <updated>2024-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Migration du STORE les 22 et 23 juillet]]></summary>
+        <content type="html"><![CDATA[<p>Migration du STORE les 22 et 23 juillet</p>
+<p>[English version below]</p>
+<p>Bonjour,</p>
+<p>L'espace disque STORE sera complètement indisponible lundi 22 et mardi 23 juillet afin d'en
+effectuer la migration vers le nouveau système de stockage Lustre installé dans le cadre de
+l'extension H100 de Jean Zay et de l'agrandissement de l'espace WORK. Veillez donc bien à ne pas
+soumettre de travaux utilisant le STORE pendant cette période (les autres travaux pourront
+continuer à s'exécuter normalement).</p>
+<p>Comme annoncé le 18 juin, une modification des modalités d'accès au STORE aura lieu à cette
+occasion. Il ne sera plus possible d'accéder à cet espace depuis les nœuds de calcul. L'accès au
+STORE sera rétabli mardi 23 juillet en fin de journée UNIQUEMENT sur les nœuds de connexion et
+sur les partitions "prepost", "visu", "compil" et "archive".</p>
+<p>Jusqu'à fin août, il restera possible d'accéder en lecture seule à l'ancien espace STORE en
+utilisant la variable d'environnement "$OLDSTORE". Cette modalité d'accès sera à privilégier dans
+les semaines qui suivront l'opération de migration. En effet, les données du nouveau STORE seront
+alors uniquement disponibles sur bandes magnétiques ce qui pourra très fortement ralentir l'accès
+aux données (jusqu'à plusieurs heures), le temps de repeupler le cache sur disques rotatifs avec
+les données les plus récemment utilisées. Notez que cette nouvelle variable d'environnement est
+déjà positionnée afin que vous puissiez anticiper la modification de vos scripts.</p>
+<p>Pour rappel, le STORE est un espace dédié au stockage pérenne et sécurisé de données archivées.
+Actuellement, il existe une redondance de l'ensemble des données, stockées à la fois sur disques
+rotatifs et sur bandes magnétiques. La présence de la donnée sur disques rotatifs permet une
+lecture/écriture relativement rapide de celle-ci. À l'avenir, seules les données les plus récemment
+utilisées seront disponibles sur le cache sur disques rotatifs (toujours avec une copie de sécurité
+sur bandes magnétiques).
+Le reste des données sera uniquement stocké sur bandes magnétiques (avec deux copies sur des bandes
+différentes pour garantir la sécurisation des données) avec des temps d'accès beaucoup plus longs,
+incompatibles avec un usage direct depuis des calculs.</p>
+<p>Nous vous invitons dès à présent à modifier vos scripts de soumission si vous accédez directement à
+l'espace STORE depuis les nœuds de calcul. Pour vous guider, des exemples ont été ajoutés à la fin
+de notre documentation sur les travaux multi-étapes :
+<a href="http://www.idris.fr/jean-zay/cpu/jean-zay-cpu-exec_cascade.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/jean-zay/cpu/jean-zay-cpu-exec_cascade.html</a></p>
+<p>Cordialement,
+L'équipe support de l'IDRIS</p>
+<hr>
+<p>Dear Jean Zay users,</p>
+<p>The STORE disk space will be totally unavailable on Monday July 22nd and Tuesday July 23rd in order
+to migrate its data onto the new Lustre storage system installed in the framework of the Jean Zay H100
+extension and the enlargement of the WORK disk space. Please make sure you do not submit any jobs using
+the STORE during this time (other jobs will continue to run normally).</p>
+<p>As announced on June 18th, a change in the STORE access policy will take place after the migration, in
+that it won't be possible anymore to access this disk space from compute nodes. In turn, access to the
+STORE disk space will be again possible starting from Tuesday July 23rd evening, but only from login
+nodes and from the "prepost", "visu", "compil" and "archive" partitions.</p>
+<p>Until the end of August, it will remain possible to access the old STORE using the "$OLDSTORE"
+environment variable. This way to access your archived data will be recommended in the weeks following
+the migration.
+Indeed, the data on the new STORE will first be available only on magnetic tape (with long access times,
+possibly up to several hours), while the rotating disk cache will be repopulated with the most recently
+used data. Note that this new environment variable is already defined so that you can modify your scripts
+in advance.</p>
+<p>As a reminder, the STORE is a disk space dedicated to long term secured storage of archived data. In the
+current system, all the data is redundantly stored on rotating disks ("cache") and magnetic tapes, and
+its availability on rotating disks enables a relatively fast read/write access time. In the future, only
+the most recently used data will be available on the rotating disk cache, with a security copy on the
+magnetic tapes. The remainder of the data will be stored only on magnetic tapes (with a double copy on
+different tapes to guarantee its security) with a much longer access time, incompatible with a direct
+usage from compute nodes.</p>
+<p>We invite you to change your submission scripts if you currently access the STORE space directly from
+the compute nodes. In order to help you, several examples have been added at the end of the multi-step
+jobs documentation:
+<a href="http://www.idris.fr/eng/jean-zay/cpu/jean-zay-cpu-exec_cascade-eng.html" target="_blank" rel="noopener noreferrer">http://www.idris.fr/eng/jean-zay/cpu/jean-zay-cpu-exec_cascade-eng.html</a>.</p>
+<p>Best regards,
+The IDRIS support team</p>]]></content>
+        <author>
+            <name>IDRIS</name>
+        </author>
+        <category label="flashinfo" term="flashinfo"/>
+    </entry>
+</feed>

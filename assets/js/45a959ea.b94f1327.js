@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7700],{64562:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/documentation/idris-documentation-docusaurus/blog","page":1,"postsPerPage":10,"totalPages":4,"totalCount":39,"nextPage":"/documentation/idris-documentation-docusaurus/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
